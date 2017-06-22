@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AnimationCanvaswithThread</string>
+    <string name="life_name"></string>
 </resources>
